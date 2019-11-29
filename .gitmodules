@@ -18,3 +18,8 @@
 [submodule "xmarts_pos_formatos"]
 	path = xmarts_pos_formatos
 	url = https://github.com/xmarts/xmarts_pos_formatos.git
+
+[submodule "log_check"]
+	path = log_check
+	url = git@github.com:William954/log_check.git
+	branch = master
